@@ -1,6 +1,6 @@
 # full-forward-proxy
 
-本项目尽全力将网页上的内容全部通过 CF Worker 进行代理
+本项目旨在尽全力将网页上的内容全部通过 CF Worker 进行代理
 
 ## 使用方法
 
